@@ -1,6 +1,6 @@
 # Persistence in C
 
-This C program installs a customizable Windows service with high-level privileges under the `LocalSystem` account. The service can be configured with any name and description as needed. It continuously runs in the background and is designed to simulate critical system functionality.
+This C program installs a customizable Windows service with high-level privileges under the `LocalSystem` account. The service can be configured with any name and description as needed. It continuously runs in the background and is designed to simulate critical system functionality. You can use this to automatically start an executabale file you want whenever the system is rebooted.
 
 Key Features:
 
